@@ -20,10 +20,30 @@
  <img width="1194" height="741" alt="image" src="https://github.com/user-attachments/assets/34e8274d-b18b-48f6-a02e-a577b7c8f788" />
 
 # Задача bash-скрипты №2:
-# 1. 
-# 2. 
-# 3. 
+# 1.
+
+  <img width="515" height="548" alt="image" src="https://github.com/user-attachments/assets/8cc7a925-22ae-4f2d-852c-6e82b3d4fd17" />
+  
+# 2.
+
+  <img width="1144" height="580" alt="image" src="https://github.com/user-attachments/assets/7a48cac0-f5bf-4770-85cf-a67fe1e37c5d" />
+  
+# 3.
+
+  <img width="1010" height="704" alt="image" src="https://github.com/user-attachments/assets/0417820f-1f09-4789-a519-7ff46fb4c260" />
+  
 # 4. 
-# 5. 
+
+  <img width="1010" height="704" alt="image" src="https://github.com/user-attachments/assets/8b2e798e-427e-4369-8f71-5c916d19100f" />
+
+# 5.
+
+  <img width="1010" height="704" alt="image" src="https://github.com/user-attachments/assets/956b1c06-39e7-4064-be82-10ddf195e462" />
+
+  <img width="1026" height="722" alt="image" src="https://github.com/user-attachments/assets/06b254de-5119-4e0a-8f48-6cfda0dc440f" />
+
 # 6. 
+
+  <img width="1144" height="532" alt="image" src="https://github.com/user-attachments/assets/51ad1dee-0757-4a36-a976-d03adccf6cf2" />
+
 
